@@ -4,7 +4,7 @@
   <img src="https://www.aluracursos.com/assets/img/imersoes/alura-latam-logo.1686744883.png" width="200">
 </p>
 
-Bienvenidos al repositorio de mis apuntes del curso "Python Pandas: Tratamiento y análisis de datos" de Alura Latam ofrecido a los graduados de Oracle Next Education..
+Bienvenidos al repositorio de mis apuntes y ejercicios del curso "Python Pandas: Tratamiento y análisis de datos" de Alura Latam ofrecido a los graduados AlumniONE de Oracle Next Education.
 
 ## Índice
 
@@ -16,7 +16,7 @@ Bienvenidos al repositorio de mis apuntes del curso "Python Pandas: Tratamiento 
 
 ## Descripción General
 
-Este repositorio contiene mi notebook con mis apuntes tomados del curso. Aprenderí desde cómo importar datos hasta cómo tratar datos faltantes, generar frecuencias, y mucho más, utilizando Python Pandas, Matplotlib, Jupyter y Anaconda.
+Este repositorio contiene mi notebook con mis apuntes tomados del curso. Aprendí desde cómo importar datos hasta cómo tratar datos faltantes, generar frecuencias, y mucho más, utilizando Python Pandas, Matplotlib, Jupyter y Anaconda.
 
 ## Clases
 
